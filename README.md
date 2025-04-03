@@ -70,6 +70,6 @@ This will open the dashboard in your browser.
 
 ## 💡 Contributors  
 
-👤 Your Name  
-📧 Your Email  
-🔗 [LinkedIn](#)  
+👤 Shagun Seth(055042)
+👤 Sweta Behera(055051)
+ 
