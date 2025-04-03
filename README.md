@@ -42,7 +42,7 @@ This will open the dashboard in your browser.
 
 ## 🌍 Live Demo  
 
-🚀 **Streamlit Dashboard Link** *(Replace with your actual Streamlit deployment URL.)*  
+🚀 **Streamlit Dashboard Link** *((https://ann-project-dl2t3mbgkzxo7qqhoxbcmd.streamlit.app/))*  
 
 ## 📁 Project Structure  
 
